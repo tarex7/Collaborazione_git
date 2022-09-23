@@ -1,19 +1,21 @@
-
-main{
-    height:400px;
+header .navbar-nav .nav-link.active {
+    color: #fff;
+    background-color: #0d6efd;
 }
 
-.jumbotron{
+main {
+    height: 400px;
+}
+
+.jumbotron {
     height: 500px;
     text-align: center;
 }
 
-#pikachu{
+#pikachu {
     max-width: 100%;
-    
 }
 
-
-#pikachu-container{
-    background-image: linear-gradient(to right, red , blue);
+#pikachu-container {
+    background-image: linear-gradient(to right, red, blue);
 }
