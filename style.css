@@ -2,3 +2,8 @@
 main{
     height:400px;
 }
+
+.jumbotron{
+    height: 500px;
+    text-align: center;
+}
