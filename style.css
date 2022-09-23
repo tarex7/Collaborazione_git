@@ -12,3 +12,8 @@ main{
     max-width: 100%;
     
 }
+
+
+#pikachu-container{
+    background-image: linear-gradient(to right, red , blue);
+}
